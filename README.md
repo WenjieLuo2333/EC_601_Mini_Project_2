@@ -28,3 +28,4 @@ If you already have a pretrained model. Run from the [15] entries (model=load_mo
 For the standard ResNet-34 and ResNet-50 network i got an acc at 86%.
 For the model build by myself. I write my own residual learning module and use it to build a deep network with shorcut.With a dropout ratio at 0.5 i got an acc at 82%~83%. However,when i set dropout as 0.1, i got an acc at 85.9%,which is similar to standard resnet-34.
 The two models are both in entry[11].
+The two images are visual structure for two networks.
